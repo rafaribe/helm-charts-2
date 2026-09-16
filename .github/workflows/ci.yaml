@@ -25,7 +25,7 @@ jobs:
         with:
           version: v3.7.2 # renovate: datasource=github-releases depName=helm lookupName=helm/helm
 
-      - uses: actions/setup-python@98f2ad02fd48d057ee3b4d4f66525b231c3e52b6 # tag=v3.1.2
+      - uses: actions/setup-python@3542bca2639a428e1796aaa6a2ffef0c0f575566 # v3.1.4
         with:
           python-version: 3.7
 
